@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Huffman-Adaptativo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Huffman_Adaptativo_jar</output-path>
+    <root id="archive" name="Huffman-Adaptativo.jar">
+      <element id="module-output" name="Huffman-Adaptativo" />
+    </root>
+  </artifact>
+</component>
