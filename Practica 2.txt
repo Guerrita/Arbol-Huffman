@@ -1,0 +1,4 @@
+Nombres : Andres Guerra - Juan Jose Muñoz 
+El ejecutable .JAR se encuentra en la carpera out. El programa pide por pantalla la cadena a comprimir. Usamos java 17. 
+Adicional creamos un repositorio en github: https://github.com/Guerrita/Arbol-Huffman
+Usamos caracteres especiales para los nodos padre y el nodo NYT. 
